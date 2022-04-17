@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10129961271",
+    "project_id": "ioeproject-a38ce",
+    "storage_bucket": "ioeproject-a38ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10129961271:android:454bb112e412b47fa9aab2",
+        "android_client_info": {
+          "package_name": "com.example.ioe_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10129961271-11h5s0gch05kpqosfj7jccgtchdl7bll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkQmOirNUecDIpXaa6mVgn8gKEWzK1po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10129961271-11h5s0gch05kpqosfj7jccgtchdl7bll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

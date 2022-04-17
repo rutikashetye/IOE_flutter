@@ -1,0 +1,68 @@
+name: ioe_health
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.2.1
+  fluttertoast: ^8.0.9
+  webview_flutter:
+  shared_preferences: ^2.0.12
+  sensors_plus: ^1.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/health_logo.png
+    - images/heart_pulse.png
+    - images/steps.png
+    - images/sleep_icon.png
+    - images/o2_icon.png
+    - images/temp_icon.png
+    - images/walk.png
+    - images/heart.png
+    - images/oxygen.png
+    - images/sleep.png
+    - images/temperature.png
+    - images/pulse_live.png
+    - images/temp_live.png
+    - images/sleep_live.png
+    - images/steps_live.png
+    - images/oxygen_live.png
+
+  # This section identifies this Flutter project as a plugin project.
+  # The 'pluginClass' and Android 'package' identifiers should not ordinarily
+  # be modified. They are used by the tooling to maintain consistency when
+  # adding or updating assets for this project.
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
